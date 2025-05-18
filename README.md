@@ -1,1 +1,1 @@
-This is the description of my repo
+## GitHub Merge Conflict Practice
